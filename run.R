@@ -11,3 +11,6 @@ install.packages(
 library('devtools')
 install_github('jhelvy/logitr', force = T)
 install_github('jhelvy/jhelvyr', force = T)
+
+# Install tinytex
+tinytex::install_tinytex()

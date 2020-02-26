@@ -11,6 +11,8 @@ install.packages(
 library('devtools')
 install_github('jhelvy/logitr', force = T)
 install_github('jhelvy/jhelvyr', force = T)
+install_github('gadenbuie/countdown', force = T)
 
-# Install tinytex
-tinytex::install_tinytex()
+# Install RStudio themes
+install_github('gadenbuie/rsthemes'), force = T)
+rsthemes::install_rsthemes(include_base16 = TRUE)

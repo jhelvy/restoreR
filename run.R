@@ -14,5 +14,5 @@ install_github('jhelvy/jhelvyr', force = T)
 install_github('gadenbuie/countdown', force = T)
 
 # Install RStudio themes
-install_github('gadenbuie/rsthemes'), force = T)
+install_github('gadenbuie/rsthemes', force = T)
 rsthemes::install_rsthemes(include_base16 = TRUE)

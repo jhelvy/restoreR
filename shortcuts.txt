@@ -1,0 +1,13 @@
+Replace default keyboard shortcuts with these:
+
+Insert chunk: Cmd + Shift + i
+Open next tab: Cmd + 2
+Open previous tab: Cmd + 1
+Move focus to console: Ctrl + 0
+Move focus to source: Ctrl + 9
+Run current line or selection: Ctrl + Y
+Block indent: Cmd + ]
+Block outdent: Cmd + [
+Comment / uncomment selection: Cmd + /
+Extract function: Cmd + Shift + X
+Quick add next: Cmd + D

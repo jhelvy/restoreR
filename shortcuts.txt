@@ -1,4 +1,4 @@
-Replace default keyboard shortcuts with these:
+RStudio keyboard shortcuts that I prefer:
 
 Insert chunk: Cmd + Shift + i
 Open next tab: Cmd + 2

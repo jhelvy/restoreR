@@ -1,6 +1,6 @@
 # Install a bunch of packages that I frequently use
 packageList = read.csv(
-    file = 'https://raw.github.com/jhelvy/jhelvyr/master/data/packageList.csv',
+    file = 'https://raw.github.com/jhelvy/restoreR/master/packageList.csv',
     header = FALSE)
 install.packages(
     as.character(packageList[,1]),

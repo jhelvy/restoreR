@@ -2,6 +2,8 @@
 "bibtex"
 "brms"
 "carData"
+"colorspace"
+"colourpicker"
 "cowplot"
 "DAAG"
 "data.table"
